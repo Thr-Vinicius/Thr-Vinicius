@@ -5,3 +5,8 @@
 .bung{
     color: rgb(229, 255, 0);
 }
+body{
+    background-image: url(XandaoVerde.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
