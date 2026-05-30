@@ -9,8 +9,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discord.com/users/1146584107191635978)
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur&show_icons=true&theme=dracula)
-
 ### Tecnologias do meu dia a dia
 
 <div style="display: inline_block"><br/>
