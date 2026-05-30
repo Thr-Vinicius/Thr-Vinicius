@@ -9,6 +9,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discord.com/users/1146584107191635978)
 
+
 ### Tecnologias do meu dia a dia
 
 <div style="display: inline_block"><br/>
