@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="300" viewBox="0 0 620 300" role="img" aria-labelledby="title desc">
+  <title id="title">Arthur Vinicius</title><desc id="desc">Linux, Automação e Segurança. Construir, testar, documentar.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091325"/><stop offset="1" stop-color="#12365B"/></linearGradient>
+    <pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#75C9FA" opacity="0.23"/></pattern>
+    <clipPath id="rounded"><rect width="620" height="300" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="620" height="300" fill="url(#bg)"/>
+    <rect width="620" height="300" fill="url(#dots)"/>
+    <circle cx="555" cy="50" r="162" fill="#66C7FF" opacity="0.09"/>
+    <circle cx="564" cy="58" r="125" fill="none" stroke="#66C7FF" stroke-width="1.5" opacity="0.27"/>
+    <circle cx="564" cy="58" r="85" fill="none" stroke="#66C7FF" stroke-width="1" stroke-dasharray="7 10" opacity="0.24"/>
+    <path d="M0 274 C170 242 350 298 620 245" fill="none" stroke="#66C7FF" stroke-width="2" opacity="0.35"/>
+    <rect x="28" y="25" width="191" height="38" rx="9" fill="#193A5C" stroke="#335D87" stroke-opacity="0.7"/>
+    <text x="43" y="49" font-family="monospace" font-size="17" font-weight="700" letter-spacing="1" fill="#66C7FF">THR / DEV.LOG</text>
+    <text x="29" y="140" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" fill="#F2F8FF">Arthur</text>
+    <text x="29" y="205" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" fill="#F2F8FF">Vinicius</text>
+    <rect x="32" y="221" width="70" height="4" rx="2" fill="#66C7FF"/>
+    <text x="30" y="264" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="500" fill="#BED5EB">Linux  •  Automação  •  Segurança</text>
+  </g>
+</svg>
